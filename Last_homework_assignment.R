@@ -350,6 +350,6 @@ Seasonal_data_conversion <- SD_tidy %>%
 #I didnt want to submit crap so i removed those attempts
 
 
-
+# Nicely done 16:20
 
 

@@ -20,6 +20,7 @@ cars <- datasets::cars
 ggplot(data = cars, aes(x = speed, y = dist)) + #inputting the dataset cars
   geom_point()
 
+## Here you couldve edited the axis and played around with the plots
 
 #Plot 2
 
@@ -93,7 +94,8 @@ histogram_1
 #changing the legend name
 #geom functions
 
-
+# Will discuss this in class
+# 7/10
 
 
 
