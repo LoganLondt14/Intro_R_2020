@@ -95,6 +95,8 @@ chicks %>%
 
 
 
+# Very neat script! Keep it up
+# It may be useful to have another script in exams just with plotting on its own
 
 
 
